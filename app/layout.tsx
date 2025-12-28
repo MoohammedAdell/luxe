@@ -12,6 +12,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Luxe Furniture - Premium Home Furniture",
+  
   description:
     "Discover premium furniture that transforms your home with elegance and comfort. Shop living room and bedroom furniture collections.",
 };
